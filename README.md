@@ -22,7 +22,7 @@ LinkedIn: linkedin.com/in/samuelsantana1
         />
     </a>
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Samuca-2001?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
