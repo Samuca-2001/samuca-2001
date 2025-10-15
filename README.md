@@ -12,7 +12,7 @@ E-mail: rochas563@gmail.com
         <img 
             alt="Perfil do linkedin" 
             title="Adicione-me no linkedin" 
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
         />
     </a>
     </a> 
