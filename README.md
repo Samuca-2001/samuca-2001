@@ -1,6 +1,6 @@
-👋 Olá! Eu sou o Samuel Santana
+# 🧑‍💻 Samuel Santana
 
-💻 Tenho 24 anos, sou natural de Natal/RN e atualmente curso o 2º período de Análise e Desenvolvimento de Sistemas.
+Tenho 24 anos, sou natural de Natal/RN e atualmente curso o 2º período de Análise e Desenvolvimento de Sistemas.
 Sou apaixonado por tecnologia e estou em constante aprendizado para me tornar um desenvolvedor Full Stack, capaz de atuar em todas as etapas do desenvolvimento de software.
 
 🚀 Tecnologias que estou estudando:
