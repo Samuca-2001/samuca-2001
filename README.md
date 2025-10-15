@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Olá! Eu sou o Samuel Santana
 
-<!--
-**Samuca-2001/samuca-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tenho 24 anos, sou natural de Natal/RN e atualmente curso o 2º período de Análise e Desenvolvimento de Sistemas.
+Sou apaixonado por tecnologia e estou em constante aprendizado para me tornar um desenvolvedor Full Stack, capaz de atuar em todas as etapas do desenvolvimento de software.
 
-Here are some ideas to get you started:
+🚀 Tecnologias que estou estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: HTML, CSS, JavaScript
+
+Backend: Java
+
+Banco de Dados: MySQL
+
+Metodologias Ágeis: Trello, Kanban
+
+🎯 Objetivo
+
+Evoluir como desenvolvedor, expandindo meus conhecimentos em front-end e back-end para construir aplicações completas e de qualidade.
+
+📫 Contato
+
+E-mail: rochas563@gmail.com
+
+LinkedIn: linkedin.com/in/samuelsantana1
