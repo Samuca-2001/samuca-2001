@@ -29,7 +29,7 @@ LinkedIn: linkedin.com/in/samuelsantana1
             src="https://custom-icon-badges.demolab.com/github/stars/Samuca-2001?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Samuca-2001">
+    <a href="https://github.com/https://github.com/Samuca-2001?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
